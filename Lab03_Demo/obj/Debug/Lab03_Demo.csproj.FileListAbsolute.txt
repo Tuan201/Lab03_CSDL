@@ -1,0 +1,11 @@
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmTuyChon.resources
